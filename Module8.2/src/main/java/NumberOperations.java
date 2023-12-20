@@ -22,7 +22,7 @@ public class NumberOperations {
         return number % 2 != 0;
     }
 
-    // Function to double a number
+    // Function to double a number as follows: f(x) = 2x
     private static int doubleNumber(int number) {
         return number * 2;
     }
