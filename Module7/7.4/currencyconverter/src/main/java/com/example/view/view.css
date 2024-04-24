@@ -1,0 +1,44 @@
+.root {
+    /* Background color */
+    -fx-background-color: #f0f0f0;
+}
+
+.label {
+    -fx-font-size: 14px;
+    -fx-font-weight: bold;
+    -fx-text-fill: #333333;
+}
+
+.text-field {
+    -fx-font-size: 14px;
+    -fx-pref-height: 30px;
+}
+
+.combo-box {
+    -fx-font-size: 14px;
+    -fx-pref-height: 30px;
+}
+
+.button {
+    -fx-font-size: 14px;
+    -fx-pref-height: 30px;
+    -fx-background-color: #007bff;
+    -fx-text-fill: white;
+}
+
+#messageLabel {
+    -fx-font-size: 12px;
+    -fx-text-fill: red;
+}
+
+#instructionLabel {
+    -fx-font-size: 12px;
+    -fx-text-fill: #666666;
+}
+
+.flow-pane {
+    -fx-padding: 20px;
+    -fx-alignment: center;
+    -fx-hgap: 10px;
+    -fx-vgap: 10px;
+}
